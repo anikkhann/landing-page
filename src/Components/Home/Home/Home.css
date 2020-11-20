@@ -1,0 +1,27 @@
+.background{
+    background-color:rgb(58, 49, 49);
+    background-repeat: no-repeat;
+    height: 600vh;
+    width:100%;
+    background-size: cover;
+
+}
+.banner{
+    position: relative;
+    width: 40%;
+    margin: 0 auto;
+}
+.banner img{
+    width: 100%;
+    margin-top: 50px;
+}
+.heading{
+    color: red;
+    position: absolute;
+    top:40%;
+    cursor: pointer;
+    text-align: center;
+    width: 100%;
+    font-size: 25px;
+
+}
